@@ -1,7 +1,7 @@
 $(function() {
 
 
-    var app_id = ''; //facebook appplication ID
+    var app_id = '138784996671122'; //facebook appplication ID
 
     var scopes = 'email, public_profile, email';
     var btn_login = '<a href="#" id="login" class="btn btn-primary">Iniciar sesión</a>';
